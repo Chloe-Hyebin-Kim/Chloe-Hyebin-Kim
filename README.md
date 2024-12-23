@@ -6,12 +6,11 @@
 
 [//]: # (You must have a lf before the markdown element when inside a block for it to work: https://stackoverflow.com/questions/29368902/how-can-i-wrap-my-markdown-in-an-html-div)
 
-
-# 🌟 Welcome to My GitHub Profile!
+<h1 align="center"> Hi there 👋, I'm Chloe Hyebin Kim</h1>
+🌟 Welcome to My GitHub Profile!
 <p align = "right">
 	<img src = "https://komarev.com/ghpvc/?username=Chloe-Hyebin-Kim&style=plastic&color=blueviolet" alt = "Profile Views"/>
 </p>
-Hi there! I'm [Chloe-Hyebin-Kim] 👋  
 
 <!-- A passionate **[Software Engineer]** from 🌍 **[Korea]**.-->
 
@@ -23,8 +22,8 @@ Hi there! I'm [Chloe-Hyebin-Kim] 👋
 ## 🚀 About Me
 - 🎓 I had double majored in **[Computer Science]** and **[Architecture]** .
 - 💼 I started out my career as a Graphics Engine Developer at Kakao. Now, I've been working at  **[GolfZon.]**  
-- 🌱 I’m learning: **[AI, ComputerVision-Image Processing, Database, Distributed Systems]**  
-- 💬 Ask me about: **[3D Graphics,  Problem-Solving]**  
+- 🌱 I’m learning **[AI, ComputerVision-Image Processing, Database, Distributed Systems]**  
+- ✨ I’m interested in **[3D Graphics,  Problem-Solving]**  
 - 🎯 Goals for 2025: **[be a Contributor Open Source!!!]**  
 - 📧 How to reach me : **[bbineekim@outlook.com]**
 
@@ -86,8 +85,8 @@ Hi there! I'm [Chloe-Hyebin-Kim] 👋
   <kbd>Frameworks & Tools</kbd>
   <br>
   <br>
-  <img width="30px" src="https://img.icons8.com/color/48/512BD4/dot-net.png" alt=".NET" title=".NET" /> 
-  <img width="30px" src="https://img.icons8.com/ios-filled/50/404C59/perforce.png" alt="Perforce" title="Perforce" /> 
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" title=".NET" /> 
+  <img width="30px" src="https://img.icons8.com/ios-filled/50/FFFFFF/perforce.png" alt="Perforce" title="Perforce" /> 
   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" title="Unreal Engine" /> 
   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" title="Unity" /> 
 </kbd>
@@ -97,8 +96,8 @@ Hi there! I'm [Chloe-Hyebin-Kim] 👋
   <br>
   <br>
   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" alt="OpenGL" title="OpenGL" /> 
-  <img width="30px" src="https://img.icons8.com/color/48/CB2029/vulkan-logo.png" alt="Vulkan" title="Vulkan" /> 
-  <img width="30px" src="https://img.icons8.com/windows/32/0078D6/directx.png" alt="DirectX" title="DirectX" /> 
+  <img width="30px" src="https://img.icons8.com/color/48/FFFFFF/vulkan-logo.png" alt="Vulkan" title="Vulkan" /> 
+  <img width="30px" src="https://img.icons8.com/windows/32/FFFFFF/directx.png" alt="DirectX" title="DirectX" /> 
 </kbd>
 
 <kbd>
@@ -106,6 +105,7 @@ Hi there! I'm [Chloe-Hyebin-Kim] 👋
   <br>
   <br>
   <img width="30px" src="https://img.icons8.com/color/48/FFFFFF/opencv.png" alt="OpenCV" title="OpenCV" /> 
+  <img width="30px" src="https://img.icons8.com/fluency/48/000000/artificial-intelligence.png" alt="YOLO" title="YOLO (You Only Look Once)" /> 
 </kbd>
 
 <kbd>
@@ -119,7 +119,7 @@ Hi there! I'm [Chloe-Hyebin-Kim] 👋
 
 
 
-
+<p align = "right">
 <details>
 <summary> A little... </summary>
 <div>
@@ -151,13 +151,15 @@ Hi there! I'm [Chloe-Hyebin-Kim] 👋
   </p>
 </div>
 </details>
+</p>
+
 
 ---
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/yourusername)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge)](https://yourportfolio.com)  
-[![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:youremail@example.com)
+[![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:bbineekim@outlook.com)
 
 ---
 
