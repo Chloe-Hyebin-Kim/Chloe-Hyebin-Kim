@@ -62,35 +62,60 @@ Hi there! I'm **[Chloe-Hyebin-Kim]** 👋
 
 ## 🛠️ Tech Stack  
 
-**Languages:**  
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)  
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)  
-![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=for-the-badge)  
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)  
+<kbd>
+  <kbd>Programming Languages</kbd>
+  <br>
+  <br>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C" /> 
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" /> 
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" title="C#" /> 
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" /> 
+</kbd>
 
-**Mobile Development:**  
-![iOS](https://img.shields.io/badge/-iOS-000000?logo=apple&logoColor=white&style=for-the-badge)  
-![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)  
+<kbd>
+  <kbd>Mobile Development</kbd>
+  <br>
+  <br>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="iOS" title="iOS" /> 
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" title="Android" /> 
+</kbd>
 
-**Frameworks & Tools:**  
-![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)  
-![Perforce](https://img.shields.io/badge/-Perforce-404C59?logo=perforce&logoColor=white&style=for-the-badge)  
-![Unreal Engine](https://img.shields.io/badge/-Unreal-0E1128?logo=unrealengine&logoColor=white&style=for-the-badge)  
-![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&style=for-the-badge)  
-![Boost](https://img.shields.io/badge/-Boost%20Library-00599C?style=for-the-badge)  
+<kbd>
+  <kbd>Frameworks & Tools</kbd>
+  <br>
+  <br>
+  <img width="30px" src="https://img.icons8.com/color/48/512BD4/dot-net.png" alt=".NET" title=".NET" /> 
+  <img width="30px" src="https://img.icons8.com/ios-filled/50/404C59/perforce.png" alt="Perforce" title="Perforce" /> 
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" title="Unreal Engine" /> 
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" title="Unity" /> 
+</kbd>
 
-**Graphics & Rendering:**  
-![Vulkan](https://img.shields.io/badge/-Vulkan-CB2029?logo=vulkan&logoColor=white&style=for-the-badge)  
-![DirectX](https://img.shields.io/badge/-DirectX-0078D6?logo=directx&logoColor=white&style=for-the-badge)  
-![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?logo=opengl&logoColor=white&style=for-the-badge)  
+<kbd>
+  <kbd>Graphics & Rendering</kbd>
+  <br>
+  <br>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" alt="OpenGL" title="OpenGL" /> 
+  <img width="30px" src="https://img.icons8.com/color/48/CB2029/vulkan-logo.png" alt="Vulkan" title="Vulkan" /> 
+  <img width="30px" src="https://img.icons8.com/windows/32/0078D6/directx.png" alt="DirectX" title="DirectX" /> 
+</kbd>
 
-**Computer Vision:**  
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge)  
+<kbd>
+  <kbd>Computer Vision</kbd>
+  <br>
+  <br>
+  <img width="30px" src="https://img.icons8.com/color/48/FFFFFF/opencv.png" alt="OpenCV" title="OpenCV" /> 
+</kbd>
 
-**3D Modeling & Animation:**  
-![Autodesk 3ds Max](https://img.shields.io/badge/-3ds%20Max-00A6D6?logo=autodesk&logoColor=white&style=for-the-badge)  
-![Autodesk Maya](https://img.shields.io/badge/-Maya-00A6D6?logo=autodesk&logoColor=white&style=for-the-badge)  
-![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge)  
+<kbd>
+  <kbd>3D Modeling & Animation</kbd>
+  <br>
+  <br>
+  <img width="30px" src="https://img.icons8.com/color/48/000000/3ds-max.png" alt="3ds Max" title="Autodesk 3ds Max" /> 
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" alt="Maya" title="Autodesk Maya" /> 
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" title="Blender" /> 
+</kbd>
+
+
 
 
 <details>
