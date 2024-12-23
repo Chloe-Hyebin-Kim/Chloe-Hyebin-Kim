@@ -6,11 +6,10 @@
 
 [//]: # (You must have a lf before the markdown element when inside a block for it to work: https://stackoverflow.com/questions/29368902/how-can-i-wrap-my-markdown-in-an-html-div)
 
-<p align = "center">
+
 # 🌟 Welcome to My GitHub Profile!
 Hi there! I'm **[Chloe-Hyebin-Kim]** 👋  
 <!-- A passionate **[Software Engineer]** from 🌍 **[Korea]**.-->
-</p>
 
 <p align = "center">
 	<img src = "https://komarev.com/ghpvc/?username=Chloe-Hyebin-Kim&style=plastic&color=blueviolet" alt = "Profile Views"/>
