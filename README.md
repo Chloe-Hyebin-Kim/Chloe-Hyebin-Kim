@@ -8,12 +8,15 @@
 
 
 # 🌟 Welcome to My GitHub Profile!
-Hi there! I'm **[Chloe-Hyebin-Kim]** 👋  
-<!-- A passionate **[Software Engineer]** from 🌍 **[Korea]**.-->
-
-<p align = "center">
+<p align = "right">
 	<img src = "https://komarev.com/ghpvc/?username=Chloe-Hyebin-Kim&style=plastic&color=blueviolet" alt = "Profile Views"/>
 </p>
+Hi there! I'm [Chloe-Hyebin-Kim] 👋  
+
+<!-- A passionate **[Software Engineer]** from 🌍 **[Korea]**.-->
+
+![Dino](https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif)
+
 
 ---
 
@@ -44,7 +47,7 @@ Hi there! I'm **[Chloe-Hyebin-Kim]** 👋
  * @param {string} weakness - Sometimes be Stubborn..
  * @throws {Punch&Kick} all of bugs.
  *
- * @returns {Object} HyeBin Chloe Kim.
+ * @returns {Object} Chloe-Hyebin-Kim.
  */
 ```
 
