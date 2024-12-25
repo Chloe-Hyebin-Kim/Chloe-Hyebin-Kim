@@ -55,12 +55,6 @@
 
 ---
 
-## 📊 My GitHub Stats
-![Chloe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chloe-Hyebin-Kim&theme=catppuccin_latte&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chloe-Hyebin-Kim&layout=compact&theme=catppuccin_latte)
-
----
-
 ## 🛠️ Tech Stack  
 
 <kbd>
@@ -153,6 +147,12 @@
 </details>
 </p>
 
+
+---
+
+## 📊 My GitHub Stats
+![Chloe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chloe-Hyebin-Kim&theme=catppuccin_latte&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chloe-Hyebin-Kim&layout=compact&theme=catppuccin_latte)
 
 ---
 
